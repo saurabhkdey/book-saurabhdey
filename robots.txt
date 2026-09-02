@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saurabhkdey.github.io/book-saurabhdey/sitemap.xml
